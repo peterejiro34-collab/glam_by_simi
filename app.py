@@ -14,7 +14,7 @@ def glam():
             body {
                 font-family: 'Georgia', serif;
                 background: #0a0a0a;
-                color: white;
+                color: black;
                 background-image: radial-gradient(circle at top right, #3a2a0a 0%, #0a0a0a 50%);
             }
             .container {max-width: 900px; margin:0 auto; padding: 20px;}
