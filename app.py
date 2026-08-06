@@ -82,9 +82,22 @@ def glam():
             .contact-grid {display:flex; flex-wrap:wrap; justify-content:center; gap:30px; margin:20px 0;}
             .contact-item a {color: #D4AF37; text-decoration:none; font-weight:bold; font-size:18px;}
             .whatsapp-btn {
-                display:inline-block; background:#D4AF37; color:black; padding:12px 25px; 
-                border-radius:25px; text-decoration:none; font-weight:bold; margin-top:10px;
-            }
+    display:inline-block; 
+    background:#D4AF37; 
+    color:black; 
+    padding:15px 30px; 
+    border-radius:25px; 
+    text-decoration:none; 
+    font-weight:bold; 
+    margin-top:10px;
+    font-size:16px;
+    text-align:center;
+}
+
+.whatsapp-btn:link, 
+.whatsapp-btn:visited {
+    color:black;
+}
             .location {background:#D4AF37; color:black; padding:10px; border-radius:20px; display:inline-block; margin-top:20px; font-weight:bold;}
             
             @media(max-width:600px){
