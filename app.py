@@ -140,6 +140,7 @@ def glam():
                         <a href="tel:07065053054">07065053054</a><br>
                         <a href="tel:09114916267">09114916267</a><br>
                         <a href="https://wa.me/2347065053054" class="whatsapp-btn">💬 BOOK NOW ON WHATSAPP</a>
+                        <a href="https://wa.me/2349114916267" class="whatsapp-btn">💬 BOOK NOW ON WHATSAPP</a>
                     </div>
                     <div class="contact-item">
                         <p><b>FOLLOW US</b></p>
